@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharmafilmstudio/static/css/main.cb8cc00f.css",
+    "main.js": "/sharmafilmstudio/static/js/main.8918ce97.js",
+    "static/js/787.d07ae320.chunk.js": "/sharmafilmstudio/static/js/787.d07ae320.chunk.js",
+    "static/media/icon.png": "/sharmafilmstudio/static/media/icon.96ecd3cc3c2ffb3250ef.png",
+    "index.html": "/sharmafilmstudio/index.html",
+    "main.cb8cc00f.css.map": "/sharmafilmstudio/static/css/main.cb8cc00f.css.map",
+    "main.8918ce97.js.map": "/sharmafilmstudio/static/js/main.8918ce97.js.map",
+    "787.d07ae320.chunk.js.map": "/sharmafilmstudio/static/js/787.d07ae320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8cc00f.css",
+    "static/js/main.8918ce97.js"
+  ]
+}
